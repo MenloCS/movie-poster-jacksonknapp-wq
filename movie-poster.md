@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:**make a movie poster of a boy named jaquavious has asperations for going to the nlf and getting out the hood but has struggles with shcool and bad influences until his mom stepts in.  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  it worked well, the image was close to exactly what I had in mind 
+- **What didn't work:** the title was just his name  
+- **What I'll change for next attempt:** maybe make a title   
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  make it a good movie title 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  it just gave me title idea 
+- **What didn't work:**  it didn't give me it in the image 
+- **What I'll change for next attempt:** add it into the image  
 
 ---
 
@@ -89,19 +89,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:** add "one way out" into the image   
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  everything it kept everything exactly how it wanted it
+- **What didn't work:**  nothing 
+- **What I'll change for next attempt:**  maybe change what the chanter looks like or remove some of the credits that are one the poster 
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:** remove the credits and change the charters hairstyle 
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** everything  
+- **What didn't work:**  nothing 
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+**Final AI Image Selected:** (Which attempt? Why?)generated-image.png 
+I selected the final image since it was exactly what I pictured. 
 
 ---
 
